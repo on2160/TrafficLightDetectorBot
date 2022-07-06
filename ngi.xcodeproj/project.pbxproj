@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		386387032875ED5E00115F2F /* traffic-light-detector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 38973105284AD44600A461CE /* traffic-light-detector.cpp */; };
 		389730CD284AD39700A461CE /* libopencv_ccalib.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 38973095284AD38200A461CE /* libopencv_ccalib.4.5.5.dylib */; };
 		389730CE284AD39800A461CE /* libopencv_fuzzy.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 38973096284AD38300A461CE /* libopencv_fuzzy.4.5.5.dylib */; };
 		389730CF284AD39800A461CE /* libopencv_imgcodecs.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 38973097284AD38300A461CE /* libopencv_imgcodecs.4.5.5.dylib */; };
@@ -63,7 +64,6 @@
 		38973102284AD39A00A461CE /* libopencv_bioinspired.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 389730CA284AD39500A461CE /* libopencv_bioinspired.4.5.5.dylib */; };
 		38973103284AD39A00A461CE /* libopencv_photo.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 389730CB284AD39600A461CE /* libopencv_photo.4.5.5.dylib */; };
 		38973104284AD39A00A461CE /* libopencv_video.4.5.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 389730CC284AD39700A461CE /* libopencv_video.4.5.5.dylib */; };
-		38973107284AD44600A461CE /* traffic-light-detector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 38973105284AD44600A461CE /* traffic-light-detector.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -345,7 +345,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38973107284AD44600A461CE /* traffic-light-detector.cpp in Sources */,
+				386387032875ED5E00115F2F /* traffic-light-detector.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
